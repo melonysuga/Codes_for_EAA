@@ -1,0 +1,8 @@
+########################  Grover Search with goal ratial 41 / 1073741824  ########################
+2
+Error:	 1e-15
+########################  Grover Search with goal ratial 1433 / 1073741824  ########################
+Error:	 1e-15
+########################  Grover Search with goal ratial 83 / 1073741824  ########################
+2
+Error:	 1e-15

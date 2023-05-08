@@ -1,0 +1,349 @@
+########################  Grover Search with goal ratial 41 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.716551533919826 	 current_sector:	 (89.9272175069382, 90.6437690408580)
+iterations to achieve the current sector:	 126
+potential:	 0.999960899353027 	 success probability:	 0.999998386353661
+================ first round of refinement ================
+current_angle:	 0.145564986123666 current_sector:	 (89.9159441102397, 90.0615090963633)
+iterations to achieve the current sector:	 1381
+theoretical iteration times:	 1385
+cur_s:	 251 theoretical_s:	 252
+potential:	 0.999998386353661 	 success probability:	 0.999998847520360
+=========================== 2 -th refinement===========================
+last_angle:	 0.145564986123666 current_angle:	 0.0112733966985054
+theoretical_times:	 12
+last sector:	 (89.9159441102397, 90.0615090963633)
+current sector after refinement:	 (90.0502356996648, 90.0615090963633)
+current sector after refinement:	 (90.0389623029663, 90.0502356996648)
+current sector after refinement:	 (90.0276889062678, 90.0389623029663)
+current sector after refinement:	 (90.0164155095693, 90.0276889062678)
+current sector after refinement:	 (90.0051421128708, 90.0164155095693)
+current sector after refinement:	 (89.9938687161723, 90.0051421128708)
+practical_times:	 5
+potential probability:	 0.999999990321583 success probability:	 0.999999991945512
+theoretical s:	 1260
+current s:	 1256
+=========================== method of more Grover iterations ===========================
+iteration times:	 8666
+theoretical iteration times:	 17513
+final potential:	 0.999999990321583
+final success probability:	 0.999999991945512
+=========================== method of adding qubits ===========================
+added qubits:	 4
+iteration times:	 502
+final potential:	 0.999997556209564
+final success probability:	 0.999999919695693
+########################  Grover Search with goal ratial 13 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.403483003448239 	 current_sector:	 (89.7749682672332, 90.1784512706814)
+iterations to achieve the current sector:	 223
+potential:	 0.999987602233887 	 success probability:	 0.999990299533496
+================ first round of refinement ================
+current_angle:	 0.0465804620854204 current_sector:	 (89.9921294223397, 90.0387098844251)
+iterations to achieve the current sector:	 2007
+theoretical iteration times:	 4245
+cur_s:	 446 theoretical_s:	 447
+potential:	 0.999999834764901 	 success probability:	 0.999999981130172
+=========================== method of more Grover iterations ===========================
+iteration times:	 2007
+theoretical iteration times:	 4245
+final potential:	 0.999999834764901
+final success probability:	 0.999999981130172
+=========================== method of adding qubits ===========================
+added qubits:	 1
+iteration times:	 315
+final potential:	 0.999993801116943
+final success probability:	 0.999999941873819
+########################  Grover Search with goal ratial 11 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.371150263601478 	 current_sector:	 (89.6327886597570, 90.0039389233585)
+iterations to achieve the current sector:	 242
+potential:	 0.999989509582520 	 success probability:	 0.999999995273825
+=========================== method of more Grover iterations ===========================
+iteration times:	 242
+theoretical iteration times:	 242
+final potential:	 0.999989509582520
+final success probability:	 0.999999995273825
+=========================== method of adding qubits ===========================
+added qubits:	 0
+iteration times:	 242
+final potential:	 0.999989509582520
+final success probability:	 0.999999995273825
+########################  Grover Search with goal ratial 3 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.193826657220551 	 current_sector:	 (89.8386556217254, 90.0324822789460)
+iterations to achieve the current sector:	 464
+potential:	 0.999997138977051 	 success probability:	 0.999999678598668
+================ first round of refinement ================
+current_angle:	 0.0649645578919732 current_sector:	 (89.9685847375094, 90.0335492954014)
+iterations to achieve the current sector:	 3250
+theoretical iteration times:	 3250
+cur_s:	 929 theoretical_s:	 929
+potential:	 0.999999678598668 	 success probability:	 0.999999699367397
+=========================== 2 -th refinement===========================
+last_angle:	 0.0649645578919732 current_angle:	 0.00106701645536853
+theoretical_times:	 60
+last sector:	 (89.9685847375094, 90.0335492954014)
+current sector after refinement:	 (89.9685847375094, 89.9696517539648)
+current sector after refinement:	 (89.9696517539648, 89.9707187704201)
+current sector after refinement:	 (89.9707187704201, 89.9717857868755)
+current sector after refinement:	 (89.9717857868755, 89.9728528033309)
+current sector after refinement:	 (89.9728528033309, 89.9739198197862)
+current sector after refinement:	 (89.9739198197862, 89.9749868362416)
+current sector after refinement:	 (89.9749868362416, 89.9760538526970)
+current sector after refinement:	 (89.9760538526970, 89.9771208691523)
+current sector after refinement:	 (89.9771208691523, 89.9781878856077)
+current sector after refinement:	 (89.9781878856077, 89.9792549020631)
+current sector after refinement:	 (89.9792549020631, 89.9803219185184)
+current sector after refinement:	 (89.9803219185184, 89.9813889349738)
+current sector after refinement:	 (89.9813889349738, 89.9824559514292)
+current sector after refinement:	 (89.9824559514292, 89.9835229678845)
+current sector after refinement:	 (89.9835229678845, 89.9845899843399)
+current sector after refinement:	 (89.9845899843399, 89.9856570007953)
+current sector after refinement:	 (89.9856570007953, 89.9867240172507)
+current sector after refinement:	 (89.9867240172507, 89.9877910337060)
+current sector after refinement:	 (89.9877910337060, 89.9888580501614)
+current sector after refinement:	 (89.9888580501614, 89.9899250666167)
+current sector after refinement:	 (89.9899250666167, 89.9909920830721)
+current sector after refinement:	 (89.9909920830721, 89.9920590995275)
+current sector after refinement:	 (89.9920590995275, 89.9931261159829)
+current sector after refinement:	 (89.9931261159829, 89.9941931324382)
+current sector after refinement:	 (89.9941931324382, 89.9952601488936)
+current sector after refinement:	 (89.9952601488936, 89.9963271653490)
+current sector after refinement:	 (89.9963271653490, 89.9973941818043)
+current sector after refinement:	 (89.9973941818043, 89.9984611982597)
+current sector after refinement:	 (89.9984611982597, 89.9995282147151)
+current sector after refinement:	 (89.9995282147151, 90.0005952311704)
+practical_times:	 29
+potential probability:	 0.999999999913296 success probability:	 0.999999999932198
+theoretical s:	 2787
+current s:	 2786
+=========================== method of more Grover iterations ===========================
+iteration times:	 85901
+theoretical iteration times:	 172328
+final potential:	 0.999999999913296
+final success probability:	 0.999999999932198
+=========================== method of adding qubits ===========================
+added qubits:	 2
+iteration times:	 929
+final potential:	 0.999999284744263
+final success probability:	 0.999999921953924
+########################  Grover Search with goal ratial 17 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.461400760094923 	 current_sector:	 (89.7424478384626, 90.2038485985575)
+iterations to achieve the current sector:	 195
+potential:	 0.999983787536621 	 success probability:	 0.999987341904648
+================ first round of refinement ================
+current_angle:	 0.0537035629799142 current_sector:	 (89.9890343466379, 90.0427379096178)
+iterations to achieve the current sector:	 1755
+theoretical iteration times:	 3713
+cur_s:	 390 theoretical_s:	 391
+potential:	 0.999999780365322 	 success probability:	 0.999999963371110
+=========================== method of more Grover iterations ===========================
+iteration times:	 1755
+theoretical iteration times:	 3713
+final potential:	 0.999999780365322
+final success probability:	 0.999999963371110
+=========================== method of adding qubits ===========================
+added qubits:	 5
+iteration times:	 1103
+final potential:	 0.999999493360519
+final success probability:	 0.999999986596696
+########################  Grover Search with goal ratial 31 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.623068303115138 	 current_sector:	 (89.4103014970223, 90.0333698001375)
+iterations to achieve the current sector:	 144
+potential:	 0.999970436096191 	 success probability:	 0.999999660795272
+================ first round of refinement ================
+current_angle:	 0.0667396002749560 current_sector:	 (89.9442182992220, 90.0109578994969)
+iterations to achieve the current sector:	 2744
+theoretical iteration times:	 3033
+cur_s:	 289 theoretical_s:	 289
+potential:	 0.999999660795272 	 success probability:	 0.999999963422893
+=========================== method of more Grover iterations ===========================
+iteration times:	 2744
+theoretical iteration times:	 3033
+final potential:	 0.999999660795272
+final success probability:	 0.999999963422893
+=========================== method of adding qubits ===========================
+added qubits:	 3
+iteration times:	 409
+final potential:	 0.999996304512024
+final success probability:	 0.999999950276308
+########################  Grover Search with goal ratial 7 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.296075297711348 	 current_sector:	 (89.8588528553941, 90.1549281531054)
+iterations to achieve the current sector:	 304
+potential:	 0.999993324279785 	 success probability:	 0.999993931266726
+================ first round of refinement ================
+current_angle:	 0.0137810084995530 current_sector:	 (89.9966629403896, 90.0104439488892)
+iterations to achieve the current sector:	 6991
+theoretical iteration times:	 13679
+cur_s:	 608 theoretical_s:	 608
+potential:	 0.999999985537055 	 success probability:	 0.999999996607790
+=========================== method of more Grover iterations ===========================
+iteration times:	 6991
+theoretical iteration times:	 13679
+final potential:	 0.999999985537055
+final success probability:	 0.999999996607790
+=========================== method of adding qubits ===========================
+added qubits:	 5
+iteration times:	 1720
+final potential:	 0.999999791383743
+final success probability:	 0.999999997576209
+########################  Grover Search with goal ratial 89 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 1.05573232335068 	 current_sector:	 (89.2093813231327, 90.2651136464834)
+iterations to achieve the current sector:	 85
+potential:	 0.999915122985840 	 success probability:	 0.999978590042648
+================ first round of refinement ================
+current_angle:	 0.525505030383815 current_sector:	 (89.7396086160996, 90.2651136464834)
+iterations to achieve the current sector:	 255
+theoretical iteration times:	 597
+cur_s:	 170 theoretical_s:	 171
+potential:	 0.999978969700644 	 success probability:	 0.999979345962335
+=========================== 2 -th refinement===========================
+last_angle:	 0.525505030383815 current_angle:	 0.00472226258305288
+theoretical_times:	 111
+last sector:	 (89.7396086160996, 90.2651136464834)
+current sector after refinement:	 (89.7396086160996, 89.7443308786827)
+current sector after refinement:	 (89.7443308786827, 89.7490531412657)
+current sector after refinement:	 (89.7490531412657, 89.7537754038488)
+current sector after refinement:	 (89.7537754038488, 89.7584976664318)
+current sector after refinement:	 (89.7584976664318, 89.7632199290149)
+current sector after refinement:	 (89.7632199290149, 89.7679421915979)
+current sector after refinement:	 (89.7679421915979, 89.7726644541810)
+current sector after refinement:	 (89.7726644541810, 89.7773867167640)
+current sector after refinement:	 (89.7773867167640, 89.7821089793471)
+current sector after refinement:	 (89.7821089793471, 89.7868312419301)
+current sector after refinement:	 (89.7868312419301, 89.7915535045132)
+current sector after refinement:	 (89.7915535045132, 89.7962757670962)
+current sector after refinement:	 (89.7962757670962, 89.8009980296793)
+current sector after refinement:	 (89.8009980296793, 89.8057202922624)
+current sector after refinement:	 (89.8057202922624, 89.8104425548454)
+current sector after refinement:	 (89.8104425548454, 89.8151648174285)
+current sector after refinement:	 (89.8151648174285, 89.8198870800115)
+current sector after refinement:	 (89.8198870800115, 89.8246093425946)
+current sector after refinement:	 (89.8246093425946, 89.8293316051776)
+current sector after refinement:	 (89.8293316051776, 89.8340538677607)
+current sector after refinement:	 (89.8340538677607, 89.8387761303437)
+current sector after refinement:	 (89.8387761303437, 89.8434983929268)
+current sector after refinement:	 (89.8434983929268, 89.8482206555098)
+current sector after refinement:	 (89.8482206555098, 89.8529429180929)
+current sector after refinement:	 (89.8529429180929, 89.8576651806759)
+current sector after refinement:	 (89.8576651806759, 89.8623874432590)
+current sector after refinement:	 (89.8623874432590, 89.8671097058420)
+current sector after refinement:	 (89.8671097058420, 89.8718319684251)
+current sector after refinement:	 (89.8718319684251, 89.8765542310082)
+current sector after refinement:	 (89.8765542310082, 89.8812764935912)
+current sector after refinement:	 (89.8812764935912, 89.8859987561743)
+current sector after refinement:	 (89.8859987561743, 89.8907210187573)
+current sector after refinement:	 (89.8907210187573, 89.8954432813404)
+current sector after refinement:	 (89.8954432813404, 89.9001655439234)
+current sector after refinement:	 (89.9001655439234, 89.9048878065065)
+current sector after refinement:	 (89.9048878065065, 89.9096100690895)
+current sector after refinement:	 (89.9096100690895, 89.9143323316726)
+current sector after refinement:	 (89.9143323316726, 89.9190545942556)
+current sector after refinement:	 (89.9190545942556, 89.9237768568387)
+current sector after refinement:	 (89.9237768568387, 89.9284991194217)
+current sector after refinement:	 (89.9284991194217, 89.9332213820048)
+current sector after refinement:	 (89.9332213820048, 89.9379436445878)
+current sector after refinement:	 (89.9379436445878, 89.9426659071709)
+current sector after refinement:	 (89.9426659071709, 89.9473881697539)
+current sector after refinement:	 (89.9473881697539, 89.9521104323370)
+current sector after refinement:	 (89.9521104323370, 89.9568326949201)
+current sector after refinement:	 (89.9568326949201, 89.9615549575031)
+current sector after refinement:	 (89.9615549575031, 89.9662772200862)
+current sector after refinement:	 (89.9662772200862, 89.9709994826692)
+current sector after refinement:	 (89.9709994826692, 89.9757217452523)
+current sector after refinement:	 (89.9757217452523, 89.9804440078353)
+current sector after refinement:	 (89.9804440078353, 89.9851662704184)
+current sector after refinement:	 (89.9851662704184, 89.9898885330014)
+current sector after refinement:	 (89.9898885330014, 89.9946107955845)
+current sector after refinement:	 (89.9946107955845, 89.9993330581675)
+current sector after refinement:	 (89.9993330581675, 90.0040553207506)
+practical_times:	 55
+potential probability:	 0.999999998301776 success probability:	 0.999999999864503
+theoretical s:	 513
+current s:	 341
+=========================== method of more Grover iterations ===========================
+iteration times:	 19351
+theoretical iteration times:	 57882
+final potential:	 0.999999998301776
+final success probability:	 0.999999999864503
+=========================== method of adding qubits ===========================
+added qubits:	 2
+iteration times:	 170
+final potential:	 0.999978780746460
+final success probability:	 0.999999999984489
+########################  Grover Search with goal ratial 47 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.767193376668876 	 current_sector:	 (89.3780283819241, 90.1452217585930)
+iterations to achieve the current sector:	 117
+potential:	 0.999955177307129 	 success probability:	 0.999993575827582
+================ first round of refinement ================
+current_angle:	 0.290443517185959 current_sector:	 (89.9589154162960, 90.2493589334820)
+iterations to achieve the current sector:	 821
+theoretical iteration times:	 821
+cur_s:	 235 theoretical_s:	 235
+potential:	 0.999993575827582 	 success probability:	 0.999999485823241
+=========================== 2 -th refinement===========================
+last_angle:	 0.290443517185959 current_angle:	 0.104137174889000
+theoretical_times:	 2
+last sector:	 (89.9589154162960, 90.2493589334820)
+current sector after refinement:	 (89.9589154162960, 90.0630525911850)
+practical_times:	 0
+potential probability:	 0.999999174140426 success probability:	 0.999999485823241
+theoretical s:	 705
+current s:	 704
+=========================== 3 -th refinement===========================
+last_angle:	 0.104137174889000 current_angle:	 0.0219680074810412
+theoretical_times:	 4
+last sector:	 (89.9589154162960, 90.0630525911850)
+current sector after refinement:	 (89.9589154162960, 89.9808834237771)
+current sector after refinement:	 (89.9808834237771, 90.0028514312581)
+practical_times:	 1
+potential probability:	 0.999999963248415 success probability:	 0.999999997523259
+theoretical s:	 2115
+current s:	 1877
+=========================== method of more Grover iterations ===========================
+iteration times:	 4340
+theoretical iteration times:	 12571
+final potential:	 0.999999963248415
+final success probability:	 0.999999997523259
+=========================== method of adding qubits ===========================
+added qubits:	 5
+iteration times:	 664
+final potential:	 0.999998599290848
+final success probability:	 0.999999926682541
+########################  Grover Search with goal ratial 71 / 1048576  ########################
+================ basic step of refinement ================
+current_angle:	 0.942945835915583 	 current_sector:	 (89.1083814940226, 90.0513273299382)
+iterations to achieve the current sector:	 95
+potential:	 0.999932289123535 	 success probability:	 0.999999197487207
+================ first round of refinement ================
+current_angle:	 0.102654659876389 current_sector:	 (89.9296187730337, 90.0322734329101)
+iterations to achieve the current sector:	 1813
+theoretical iteration times:	 2004
+cur_s:	 191 theoretical_s:	 191
+potential:	 0.999999197487207 	 success probability:	 0.999999682718305
+=========================== 2 -th refinement===========================
+last_angle:	 0.102654659876389 current_angle:	 0.0190538970280796
+theoretical_times:	 5
+last sector:	 (89.9296187730337, 90.0322734329101)
+current sector after refinement:	 (90.0132195358820, 90.0322734329101)
+current sector after refinement:	 (89.9941656388540, 90.0132195358820)
+practical_times:	 1
+potential probability:	 0.999999972352086 success probability:	 0.999999989630893
+theoretical s:	 1910
+current s:	 1718
+=========================== method of more Grover iterations ===========================
+iteration times:	 5249
+theoretical iteration times:	 13273
+final potential:	 0.999999972352086
+final success probability:	 0.999999989630893
+=========================== method of adding qubits ===========================
+added qubits:	 6
+iteration times:	 764
+final potential:	 0.999998942017555
+final success probability:	 0.999999977436356

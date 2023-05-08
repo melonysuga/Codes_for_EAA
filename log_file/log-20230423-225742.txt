@@ -1,0 +1,15 @@
+########################  Grover Search with goal ratial 3 / 112  ########################
+================ basic step of refinement ================
+current_angle:	 18.8391969706911 	 current_sector:	 (84.7763863681100, 103.615583338801)
+iterations to achieve the current sector:	 5
+potential:	 0.973214285714286 	 success probability:	 0.991711169979112
+=========================== method of more Grover iterations ===========================
+iteration times:	 5
+theoretical iteration times:	 5
+final potential:	 0.973214285714286
+final success probability:	 0.991711169979112
+=========================== method of adding qubits ===========================
+added qubits:	 0
+iteration times:	 5
+final potential:	 0.973214285714286
+final success probability:	 0.991711169979112

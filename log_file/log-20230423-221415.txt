@@ -1,0 +1,57 @@
+########################  Grover Search with goal ratial 23 / 1073741824  ########################
+================ basic step of refinement ================
+current_angle:	 0.0167712955641237 	 current_sector:	 (89.9863863493056, 90.0031576448697)
+iterations to achieve the current sector:	 5366
+potential:	 0.999999978579581 	 success probability:	 0.999999996962745
+================ first round of refinement ================
+current_angle:	 0.00631528973943330 current_sector:	 (89.9990169287845, 90.0053322185239)
+iterations to achieve the current sector:	 37564
+theoretical iteration times:	 37564
+cur_s:	 10733 theoretical_s:	 10733
+potential:	 0.999999996962745 	 success probability:	 0.999999999705609
+=========================== method of more Grover iterations ===========================
+iteration times:	 37564
+theoretical iteration times:	 37564
+final potential:	 0.999999996962745
+final success probability:	 0.999999999705609
+=========================== method of adding qubits ===========================
+added qubits:	 2
+iteration times:	 10733
+final potential:	 0.999999994644895
+final success probability:	 0.999999999673421
+########################  Grover Search with goal ratial 43 / 1073741824  ########################
+================ basic step of refinement ================
+current_angle:	 0.0229317354960139 	 current_sector:	 (89.9955959541065, 90.0185276896025)
+iterations to achieve the current sector:	 3925
+potential:	 0.999999959953129 	 success probability:	 0.999999994091756
+================ first round of refinement ================
+current_angle:	 0.00880809178706702 current_sector:	 (89.9921034142413, 90.0009115060283)
+iterations to achieve the current sector:	 27472
+theoretical iteration times:	 27474
+cur_s:	 7849 theoretical_s:	 7850
+potential:	 0.999999994091756 	 success probability:	 0.999999999746911
+=========================== method of more Grover iterations ===========================
+iteration times:	 27472
+theoretical iteration times:	 27474
+final potential:	 0.999999994091756
+final success probability:	 0.999999999746911
+=========================== method of adding qubits ===========================
+added qubits:	 2
+iteration times:	 7849
+final potential:	 0.999999989988282
+final success probability:	 0.999999999462428
+########################  Grover Search with goal ratial 3 / 1073741824  ########################
+================ basic step of refinement ================
+current_angle:	 0.00605708015271817 	 current_sector:	 (89.9991254491629, 90.0051825293156)
+iterations to achieve the current sector:	 14859
+potential:	 0.999999997206032 	 success probability:	 0.999999999767017
+=========================== method of more Grover iterations ===========================
+iteration times:	 14859
+theoretical iteration times:	 14859
+final potential:	 0.999999997206032
+final success probability:	 0.999999999767017
+=========================== method of adding qubits ===========================
+added qubits:	 0
+iteration times:	 14859
+final potential:	 0.999999997206032
+final success probability:	 0.999999999767017

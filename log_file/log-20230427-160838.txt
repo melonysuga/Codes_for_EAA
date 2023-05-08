@@ -1,0 +1,687 @@
+########################  Grover Search with goal ratial 2 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 132504
+theoretical iteration times:	 429594
+final potential:	 0.999999999955637
+final success probability:	 0.999999999985587
+=========================== method of adding qubits ===========================
+iteration times:	 1608
+final potential:	 0.999999761581421
+final success probability:	 0.999999999979598
+########################  Grover Search with goal ratial 3 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 2
+=========================== method of more Grover iterations ===========================
+iteration times:	 85901
+theoretical iteration times:	 172328
+final potential:	 0.999999999913296
+final success probability:	 0.999999999932198
+=========================== method of adding qubits ===========================
+iteration times:	 42027
+final potential:	 0.999999999650754
+final success probability:	 0.999999999987961
+########################  Grover Search with goal ratial 5 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 2
+=========================== method of more Grover iterations ===========================
+iteration times:	 16904
+theoretical iteration times:	 36359
+final potential:	 0.999999997822324
+final success probability:	 0.999999999989717
+=========================== method of adding qubits ===========================
+iteration times:	 11509
+final potential:	 0.999999995343387
+final success probability:	 0.999999999964667
+########################  Grover Search with goal ratial 7 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 215519
+theoretical iteration times:	 681871
+final potential:	 0.999999999985737
+final success probability:	 0.999999999995233
+=========================== method of adding qubits ===========================
+iteration times:	 13756
+final potential:	 0.999999996740371
+final success probability:	 0.999999999939045
+########################  Grover Search with goal ratial 11 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 2
+=========================== method of more Grover iterations ===========================
+iteration times:	 114212
+theoretical iteration times:	 232556
+final potential:	 0.999999999939479
+final success probability:	 0.999999999957607
+=========================== method of adding qubits ===========================
+iteration times:	 31039
+final potential:	 0.999999999359716
+final success probability:	 0.999999999901778
+########################  Grover Search with goal ratial 13 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 148779
+theoretical iteration times:	 313569
+final potential:	 0.999999999968514
+final success probability:	 0.999999999992726
+=========================== method of adding qubits ===========================
+iteration times:	 10094
+final potential:	 0.999999993946403
+final success probability:	 0.999999999963305
+########################  Grover Search with goal ratial 17 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 82119
+theoretical iteration times:	 189829
+final potential:	 0.999999999614672
+final success probability:	 0.999999999975881
+=========================== method of adding qubits ===========================
+iteration times:	 24968
+final potential:	 0.999999999010470
+final success probability:	 0.999999999998912
+########################  Grover Search with goal ratial 19 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 282848
+theoretical iteration times:	 598104
+final potential:	 0.999999999987664
+final success probability:	 0.999999999995496
+=========================== method of adding qubits ===========================
+iteration times:	 11808
+final potential:	 0.999999995576218
+final success probability:	 0.999999999961175
+########################  Grover Search with goal ratial 23 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 2915070
+theoretical iteration times:	 14152151
+final potential:	 0.999999999999926
+final success probability:	 0.999999999999997
+=========================== method of adding qubits ===========================
+iteration times:	 30356
+final potential:	 0.999999999330612
+final success probability:	 0.999999999991416
+########################  Grover Search with goal ratial 29 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 83483
+theoretical iteration times:	 358649
+final potential:	 0.999999999874836
+final success probability:	 0.999999999956585
+=========================== method of adding qubits ===========================
+iteration times:	 27034
+final potential:	 0.999999999155989
+final success probability:	 0.999999999915913
+########################  Grover Search with goal ratial 31 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 188791
+theoretical iteration times:	 407344
+final potential:	 0.999999999981257
+final success probability:	 0.999999999999419
+=========================== method of adding qubits ===========================
+iteration times:	 36978
+final potential:	 0.999999999548891
+final success probability:	 0.999999999998540
+########################  Grover Search with goal ratial 37 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 100352
+theoretical iteration times:	 457786
+final potential:	 0.999999999913138
+final success probability:	 0.999999999981420
+=========================== method of adding qubits ===========================
+iteration times:	 5983
+final potential:	 0.999999982770532
+final success probability:	 0.999999999976352
+########################  Grover Search with goal ratial 41 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 103872
+theoretical iteration times:	 212813
+final potential:	 0.999999999925486
+final success probability:	 0.999999999988267
+=========================== method of adding qubits ===========================
+iteration times:	 22736
+final potential:	 0.999999998806743
+final success probability:	 0.999999999992947
+########################  Grover Search with goal ratial 43 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 59728
+theoretical iteration times:	 247844
+final potential:	 0.999999999815393
+final success probability:	 0.999999999921170
+=========================== method of adding qubits ===========================
+iteration times:	 22201
+final potential:	 0.999999998748535
+final success probability:	 0.999999999960390
+########################  Grover Search with goal ratial 47 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 127047
+theoretical iteration times:	 338281
+final potential:	 0.999999999945824
+final success probability:	 0.999999999968592
+=========================== method of adding qubits ===========================
+iteration times:	 42471
+final potential:	 0.999999999658030
+final success probability:	 0.999999999960963
+########################  Grover Search with goal ratial 53 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 1546041
+theoretical iteration times:	 3898328
+final potential:	 0.999999999999736
+final success probability:	 0.999999999999918
+=========================== method of adding qubits ===========================
+iteration times:	 19998
+final potential:	 0.999999998457497
+final success probability:	 0.999999999982242
+########################  Grover Search with goal ratial 59 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 59785
+theoretical iteration times:	 215354
+final potential:	 0.999999999821533
+final success probability:	 0.999999999984279
+=========================== method of adding qubits ===========================
+iteration times:	 18953
+final potential:	 0.999999998282874
+final success probability:	 0.999999999994970
+########################  Grover Search with goal ratial 61 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 57767
+theoretical iteration times:	 172112
+final potential:	 0.999999999775216
+final success probability:	 0.999999999981253
+=========================== method of adding qubits ===========================
+iteration times:	 37280
+final potential:	 0.999999999556167
+final success probability:	 0.999999999955479
+########################  Grover Search with goal ratial 67 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 64159
+theoretical iteration times:	 106280
+final potential:	 0.999999999081404
+final success probability:	 0.999999999927667
+=========================== method of adding qubits ===========================
+iteration times:	 4446
+final potential:	 0.999999968800694
+final success probability:	 0.999999999989728
+########################  Grover Search with goal ratial 71 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 61371
+theoretical iteration times:	 137423
+final potential:	 0.999999999267388
+final success probability:	 0.999999999958547
+=========================== method of adding qubits ===========================
+iteration times:	 34555
+final potential:	 0.999999999483407
+final success probability:	 0.999999999968383
+########################  Grover Search with goal ratial 73 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 156536
+theoretical iteration times:	 299280
+final potential:	 0.999999999864131
+final success probability:	 0.999999999938902
+=========================== method of adding qubits ===========================
+iteration times:	 48195
+final potential:	 0.999999999734428
+final success probability:	 0.999999999989640
+########################  Grover Search with goal ratial 79 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 357501
+theoretical iteration times:	 1077220
+final potential:	 0.999999999993307
+final success probability:	 0.999999999996598
+=========================== method of adding qubits ===========================
+iteration times:	 2896
+final potential:	 0.999999926425517
+final success probability:	 0.999999999904910
+########################  Grover Search with goal ratial 83 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 6
+=========================== method of more Grover iterations ===========================
+iteration times:	 152453
+theoretical iteration times:	 836235
+final potential:	 0.999999999967271
+final success probability:	 0.999999999989405
+=========================== method of adding qubits ===========================
+iteration times:	 1997
+final potential:	 0.999999845400453
+final success probability:	 0.999999999986205
+########################  Grover Search with goal ratial 89 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 171435
+theoretical iteration times:	 287193
+final potential:	 0.999999999864503
+final success probability:	 0.999999999999123
+=========================== method of adding qubits ===========================
+iteration times:	 170
+final potential:	 0.999978780746460
+final success probability:	 0.999999999984489
+########################  Grover Search with goal ratial 97 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 202429
+theoretical iteration times:	 708397
+final potential:	 0.999999999972157
+final success probability:	 0.999999999990249
+=========================== method of adding qubits ===========================
+iteration times:	 41809
+final potential:	 0.999999999647116
+final success probability:	 0.999999999985795
+########################  Grover Search with goal ratial 101 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 27928
+theoretical iteration times:	 91205
+final potential:	 0.999999999165929
+final success probability:	 0.999999999958309
+=========================== method of adding qubits ===========================
+iteration times:	 20487
+final potential:	 0.999999998530257
+final success probability:	 0.999999999976219
+########################  Grover Search with goal ratial 103 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 2
+=========================== method of more Grover iterations ===========================
+iteration times:	 3090
+theoretical iteration times:	 9459
+final potential:	 0.999999935322540
+final success probability:	 0.999999999987045
+=========================== method of adding qubits ===========================
+iteration times:	 40573
+final potential:	 0.999999999625288
+final success probability:	 0.999999999978353
+########################  Grover Search with goal ratial 107 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 1114987
+theoretical iteration times:	 4984121
+final potential:	 0.999999999999470
+final success probability:	 0.999999999999923
+=========================== method of adding qubits ===========================
+iteration times:	 28148
+final potential:	 0.999999999221473
+final success probability:	 0.999999999928092
+########################  Grover Search with goal ratial 109 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 198510
+theoretical iteration times:	 535601
+final potential:	 0.999999999983029
+final success probability:	 0.999999999998396
+=========================== method of adding qubits ===========================
+iteration times:	 13944
+final potential:	 0.999999996827682
+final success probability:	 0.999999999974712
+########################  Grover Search with goal ratial 113 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 48041
+theoretical iteration times:	 127603
+final potential:	 0.999999999498429
+final success probability:	 0.999999999987751
+=========================== method of adding qubits ===========================
+iteration times:	 13695
+final potential:	 0.999999996711267
+final success probability:	 0.999999999930269
+########################  Grover Search with goal ratial 127 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 150078
+theoretical iteration times:	 226439
+final potential:	 0.999999999863125
+final success probability:	 0.999999999992940
+=========================== method of adding qubits ===========================
+iteration times:	 12919
+final potential:	 0.999999996303814
+final success probability:	 0.999999999990433
+########################  Grover Search with goal ratial 131 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 58250
+theoretical iteration times:	 121752
+final potential:	 0.999999999078407
+final success probability:	 0.999999999999199
+=========================== method of adding qubits ===========================
+iteration times:	 17988
+final potential:	 0.999999998093699
+final success probability:	 0.999999999991729
+########################  Grover Search with goal ratial 137 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 35660
+theoretical iteration times:	 148970
+final potential:	 0.999999999279498
+final success probability:	 0.999999999986494
+=========================== method of adding qubits ===========================
+iteration times:	 35180
+final potential:	 0.999999999501597
+final success probability:	 0.999999999918749
+########################  Grover Search with goal ratial 139 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 771294
+theoretical iteration times:	 2097263
+final potential:	 0.999999999998797
+final success probability:	 0.999999999999674
+=========================== method of adding qubits ===========================
+iteration times:	 24697
+final potential:	 0.999999998988642
+final success probability:	 0.999999999948103
+########################  Grover Search with goal ratial 149 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 111411
+theoretical iteration times:	 213773
+final potential:	 0.999999999703063
+final success probability:	 0.999999999907986
+=========================== method of adding qubits ===========================
+iteration times:	 8433
+final potential:	 0.999999991327059
+final success probability:	 0.999999999981894
+########################  Grover Search with goal ratial 151 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 91691
+theoretical iteration times:	 302543
+final potential:	 0.999999999909725
+final success probability:	 0.999999999914782
+=========================== method of adding qubits ===========================
+iteration times:	 11847
+final potential:	 0.999999995605322
+final success probability:	 0.999999999998052
+########################  Grover Search with goal ratial 157 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 70153
+theoretical iteration times:	 278574
+final potential:	 0.999999999741282
+final success probability:	 0.999999999994642
+=========================== method of adding qubits ===========================
+iteration times:	 46476
+final potential:	 0.999999999714419
+final success probability:	 0.999999999989408
+########################  Grover Search with goal ratial 163 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 3
+=========================== method of more Grover iterations ===========================
+iteration times:	 144062
+theoretical iteration times:	 234296
+final potential:	 0.999999999857311
+final success probability:	 0.999999999940558
+=========================== method of adding qubits ===========================
+iteration times:	 5702
+final potential:	 0.999999981024303
+final success probability:	 0.999999999953882
+########################  Grover Search with goal ratial 167 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 135605
+theoretical iteration times:	 629936
+final potential:	 0.999999999964037
+final success probability:	 0.999999999996352
+=========================== method of adding qubits ===========================
+iteration times:	 1992
+final potential:	 0.999999844469130
+final success probability:	 0.999999999979272
+########################  Grover Search with goal ratial 173 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 85051
+theoretical iteration times:	 425025
+final potential:	 0.999999999884700
+final success probability:	 0.999999999993052
+=========================== method of adding qubits ===========================
+iteration times:	 31307
+final potential:	 0.999999999370630
+final success probability:	 0.999999999934931
+########################  Grover Search with goal ratial 179 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 31798
+theoretical iteration times:	 130618
+final potential:	 0.999999999320639
+final success probability:	 0.999999999951769
+=========================== method of adding qubits ===========================
+iteration times:	 10881
+final potential:	 0.999999994790414
+final success probability:	 0.999999999997026
+########################  Grover Search with goal ratial 181 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 1903974
+theoretical iteration times:	 6364739
+final potential:	 0.999999999999828
+final success probability:	 0.999999999999934
+=========================== method of adding qubits ===========================
+iteration times:	 15303
+final potential:	 0.999999997366103
+final success probability:	 0.999999999999168
+########################  Grover Search with goal ratial 191 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 6
+=========================== method of more Grover iterations ===========================
+iteration times:	 83388
+theoretical iteration times:	 454836
+final potential:	 0.999999999883535
+final success probability:	 0.999999999922483
+=========================== method of adding qubits ===========================
+iteration times:	 14897
+final potential:	 0.999999997220584
+final success probability:	 0.999999999999013
+########################  Grover Search with goal ratial 193 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 173262
+theoretical iteration times:	 591541
+final potential:	 0.999999999978049
+final success probability:	 0.999999999991688
+=========================== method of adding qubits ===========================
+iteration times:	 41918
+final potential:	 0.999999999648935
+final success probability:	 0.999999999992258
+########################  Grover Search with goal ratial 197 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 52886
+theoretical iteration times:	 269041
+final potential:	 0.999999999767110
+final success probability:	 0.999999999998684
+=========================== method of adding qubits ===========================
+iteration times:	 10372
+final potential:	 0.999999994266545
+final success probability:	 0.999999999959867
+########################  Grover Search with goal ratial 199 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 1
+=========================== method of more Grover iterations ===========================
+iteration times:	 2907
+theoretical iteration times:	 5921
+final potential:	 0.999999927001913
+final success probability:	 0.999999999992625
+=========================== method of adding qubits ===========================
+iteration times:	 7297
+final potential:	 0.999999988416675
+final success probability:	 0.999999999990878
+########################  Grover Search with goal ratial 211 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 1525024
+theoretical iteration times:	 5647623
+final potential:	 0.999999999999728
+final success probability:	 0.999999999999885
+=========================== method of adding qubits ===========================
+iteration times:	 10022
+final potential:	 0.999999993859092
+final success probability:	 0.999999999919051
+########################  Grover Search with goal ratial 223 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 7
+=========================== method of more Grover iterations ===========================
+iteration times:	 592776
+theoretical iteration times:	 3359177
+final potential:	 0.999999999997807
+final success probability:	 0.999999999999959
+=========================== method of adding qubits ===========================
+iteration times:	 4875
+final potential:	 0.999999974039383
+final success probability:	 0.999999999930695
+########################  Grover Search with goal ratial 227 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 58128
+theoretical iteration times:	 105875
+final potential:	 0.999999999214856
+final success probability:	 0.999999999931226
+=========================== method of adding qubits ===========================
+iteration times:	 19326
+final potential:	 0.999999998348358
+final success probability:	 0.999999999983195
+########################  Grover Search with goal ratial 229 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 128024
+theoretical iteration times:	 359465
+final potential:	 0.999999999828255
+final success probability:	 0.999999999980932
+=========================== method of adding qubits ===========================
+iteration times:	 9620
+final potential:	 0.999999993335223
+final success probability:	 0.999999999995598
+########################  Grover Search with goal ratial 233 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 333555
+theoretical iteration times:	 1190538
+final potential:	 0.999999999992055
+final success probability:	 0.999999999999999
+=========================== method of adding qubits ===========================
+iteration times:	 9538
+final potential:	 0.999999993218808
+final success probability:	 0.999999999931187
+########################  Grover Search with goal ratial 239 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 245068
+theoretical iteration times:	 944946
+final potential:	 0.999999999987309
+final success probability:	 0.999999999990157
+=========================== method of adding qubits ===========================
+iteration times:	 26635
+final potential:	 0.999999999130523
+final success probability:	 1.00000000000000
+########################  Grover Search with goal ratial 241 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5
+=========================== method of more Grover iterations ===========================
+iteration times:	 148004
+theoretical iteration times:	 584947
+final potential:	 0.999999999969759
+final success probability:	 0.999999999978966
+=========================== method of adding qubits ===========================
+iteration times:	 37512
+final potential:	 0.999999999561624
+final success probability:	 0.999999999955491
+########################  Grover Search with goal ratial 251 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 31624
+theoretical iteration times:	 117758
+final potential:	 0.999999998869567
+final success probability:	 0.999999999987107
+=========================== method of adding qubits ===========================
+iteration times:	 12995
+final potential:	 0.999999996347469
+final success probability:	 0.999999999999966
+########################  Grover Search with goal ratial 257 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 268335
+theoretical iteration times:	 848348
+final potential:	 0.999999999987322
+final success probability:	 0.999999999993450
+=========================== method of adding qubits ===========================
+iteration times:	 18163
+final potential:	 0.999999998130079
+final success probability:	 0.999999999910746
+########################  Grover Search with goal ratial 263 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 19290
+theoretical iteration times:	 57549
+final potential:	 0.999999997039033
+final success probability:	 0.999999999994985
+=========================== method of adding qubits ===========================
+iteration times:	 12696
+final potential:	 0.999999996172846
+final success probability:	 0.999999999941261
+########################  Grover Search with goal ratial 269 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 4
+=========================== method of more Grover iterations ===========================
+iteration times:	 54476
+theoretical iteration times:	 133599
+final potential:	 0.999999999432673
+final success probability:	 0.999999999987287
+=========================== method of adding qubits ===========================
+iteration times:	 25106
+final potential:	 0.999999999021384
+final success probability:	 0.999999999917273
+########################  Grover Search with goal ratial 271 / 1048576  ########################
+Error:	 1e-10
+!!!!!!!!!!!!!!!!!!!!!11111	 5

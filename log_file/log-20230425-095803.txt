@@ -1,0 +1,36 @@
+########################  Grover Search with goal ratial 97169 / 1099511627776  ########################
+================ basic step of refinement ================
+current_angle:	 0.0340656427668531 	 current_sector:	 (89.9843953686426, 90.0184610114094)
+iterations to achieve the current sector:	 2642
+potential:	 0.999999911625309 	 success probability:	 0.999999925824283
+================ first round of refinement ================
+current_angle:	 0.00285638005196571 current_sector:	 (89.9986772689024, 90.0015336489544)
+iterations to achieve the current sector:	 34345
+theoretical iteration times:	 66049
+cur_s:	 5284 theoretical_s:	 5284
+potential:	 0.999999999378664 	 success probability:	 0.999999999467036
+=========================== 2 -th refinement===========================
+last_angle:	 0.00285638005196571 current_angle:	 0.000210917856735399
+theoretical_times:	 13
+last sector:	 (89.9986772689024, 90.0015336489544)
+current sector after refinement:	 (89.9986772689024, 89.9988881867591)
+current sector after refinement:	 (89.9988881867591, 89.9990991046159)
+current sector after refinement:	 (89.9990991046159, 89.9993100224726)
+current sector after refinement:	 (89.9993100224726, 89.9995209403293)
+current sector after refinement:	 (89.9995209403293, 89.9997318581861)
+current sector after refinement:	 (89.9997318581861, 89.9999427760428)
+current sector after refinement:	 (89.9999427760428, 90.0001536938995)
+practical_times:	 6
+potential probability:	 0.999999999996612 success probability:	 0.999999999999002
+theoretical s:	 63408
+current s:	 63407
+=========================== method of more Grover iterations ===========================
+iteration times:	 472910
+theoretical iteration times:	 948477
+final potential:	 0.999999999996612
+final success probability:	 0.999999999999002
+=========================== method of adding qubits ===========================
+added qubits:	 14
+iteration times:	 338171
+final potential:	 0.999999999994606
+final success probability:	 0.999999999999585
