@@ -16,4 +16,4 @@ The description of main functions in "EAA.py" are as follows:
 >+ self.addQubits() calls the method MQI to achieve the probability of success within the pre-defined error;
 >+ self.moreGrover() calls the method MIP to achieve the probability of success within the pre-defined error.
 
-> We provide random instances in "RandomizedTest.py" by setting the number of goal records $M$ as a prime number randomly selected from "primes.py"
+We provide random instances in "RandomizedTest.py" by setting the number of goal records $M$ as a prime number randomly selected from "primes.py"
